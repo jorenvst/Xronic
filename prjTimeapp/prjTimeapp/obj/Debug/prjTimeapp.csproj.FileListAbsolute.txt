@@ -1,0 +1,10 @@
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\bin\Debug\prjTimeapp.exe.config
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\bin\Debug\prjTimeapp.exe
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\bin\Debug\prjTimeapp.pdb
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.csproj.AssemblyReference.cache
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.Properties.Resources.resources
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.csproj.GenerateResource.cache
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.csproj.CoreCompileInputs.cache
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.exe
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.pdb
+C:\Users\Joren\source\repos\jorenvst\timeapp\prjTimeapp\prjTimeapp\obj\Debug\prjTimeapp.Form1.resources

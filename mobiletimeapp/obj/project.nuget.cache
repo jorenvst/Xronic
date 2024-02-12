@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5jjekypAdBAbn7azyO/sO4CHNCaE+xb3b5Sl9Xom/pGAhWszIG8MmL3DO8PCEnmQNbKkDVsupdZGsrwcY3Krg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joren\\source\\repos\\jorenvst\\timeapp\\mobiletimeapp\\mobiletimeapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joren\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
