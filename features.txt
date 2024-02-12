@@ -1,5 +1,35 @@
 >> MOBILE APP <<
 
+_____
+Home:
+    - settings
+    -> Settings
+    - new training(STRING name)
+    -> Distance_Selector
+    
+    - analyse trainings
+_________
+Settings:
+    - role selector (dropdown menu): trainer / skater
+    //nice to have: dark mode
+    //nice to have: distance presets editor
+    - save and return to home button
+    -> Home
+__________________
+Distance_Selector:
+
+    - flying lap / time trial
+    - textbox for inserting distance in m (INT distance)     //nice to have: presets (ex. 500)
+    - timer button
+    -> Timer
+______
+Timer:
+    - running timer
+    - start button
+    - stop button
+    -> 
+    
+
 >> DESKTOP APP <<
 
 >> DATABASE <<
