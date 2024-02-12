@@ -8,7 +8,7 @@ Home:
 
     - settings
     -> Settings
-    - new training(STRING name)
+    - new training(STRING name) (distinguish between tracks?)
     -> Distance_Selector
     ? analyse trainings (is this necessary/useful/possible on mobile?)
 _________
@@ -61,6 +61,12 @@ Skater_Selector:
 
 >> DESKTOP APP <<
 
-features : Pascal ?
+features: (per track?)
+    - speed per distance
+    - delta between same distances in the same training
+    - progression of times on a certain distance in a certain period of time
+    - based on flying lap, calculate expected speed when fit over a 20 lap distance (0.9 * speed) (Pascal Theory)
+    -> (if 4000fl exists AND 200fl is within a certain period of time AND both 4000fl and 200fl are within a certain period of time compared to today) check if you're fit
+    - Pascal ?
 
 >> DATABASE <<
