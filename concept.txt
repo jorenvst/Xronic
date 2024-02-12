@@ -10,7 +10,7 @@ Home:
     -> Settings
     - new training(STRING name)
     -> Distance_Selector
-    - analyse trainings
+    ? analyse trainings (is this necessary/useful/possible on mobile?)
 _________
 Settings:
     - role selector (dropdown menu): trainer / skater
@@ -60,5 +60,7 @@ Skater_Selector:
     -> Timer
 
 >> DESKTOP APP <<
+
+features : Pascal ?
 
 >> DATABASE <<
