@@ -28,6 +28,7 @@ Distance_Selector:
 
     - flying lap / time trial
     - textbox for inserting distance in m (INT distance)     //nice to have: presets (ex. 500)
+    //nice to have: textbox for inserting lap distance
     - timer button
     -> Timer
     - (if role = "trainer") add people that participate in the training
@@ -42,8 +43,9 @@ Timer:
 
     - start button
     - stop button
+    //nice to have: lap button and display laps (times) under timer
     -> MessageBox: do you want to save this time? (yes/no)
-        -> (yes) (CREATE record(name,distance,time))
+        -> (yes) (CREATE record(name,distance,time[,laptimes]{dist // lap_dist}))
             -> (if role = "trainer") Skater_Selector
         -> (no) reset timer (ask for confirmation?) 
     - change distance button
