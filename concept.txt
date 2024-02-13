@@ -2,13 +2,16 @@
 
 //future dreams: profile logins
 
+role trainer is most important. Delete roles?
+
+groups
 _____
 Home:
     - DISPLAY role in label
 
     - settings
     -> Settings
-    - new training(STRING name) (distinguish between tracks?)
+    - new training(STRING name with date) (distinguish between tracks)
     -> Distance_Selector
     ? analyse trainings (is this necessary/useful/possible on mobile?)
 _________
@@ -21,7 +24,7 @@ Settings:
     - save and return to home button
     -> Home
 __________________
-Distance_Selector:
+Distance_Selector: (add split choices) / TEMPLATE (creator?)
 
     - DISPLAY role in label
     - DISPLAY training name in label
@@ -53,7 +56,7 @@ Timer:
     - end training session button (CREATE csv(records))
     -> Home
 ________________
-Skater_Selector:
+Skater_Selector: (same screen as timer as in a scroll list pop up)
 
     - select person from dropdown menu
     - confirm button (CREATE record(name,distance,time))
@@ -63,6 +66,9 @@ Skater_Selector:
 
 >> DESKTOP APP <<
 
+how to connect mobile to desktop? accounts?
+
+analysing is for later
 features: (per track?)
     - speed per distance
     - delta between same distances in the same training
