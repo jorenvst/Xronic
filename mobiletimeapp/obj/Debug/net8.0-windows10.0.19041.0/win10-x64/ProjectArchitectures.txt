@@ -1,0 +1,1 @@
+C:\Users\Joren\source\repos\jorenvst\timeapp\mobiletimeapp\mobiletimeapp.csproj;x64
