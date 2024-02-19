@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mobiletimeapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4adc8c5b806e6210c0dd04943881425e78c6079d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc8f45c63fb6afc8043a0a644fbfb8cef958e302")]
 [assembly: System.Reflection.AssemblyProductAttribute("mobiletimeapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mobiletimeapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
