@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSM8FDq85HVaO/qquqVOa7O1db8hUWoMca6JTJ9NqYq2N2jm7W388r3NFv0ZDkpBRqXWJntYU/1bRz4EaHrahg==",
+  "dgSpecHash": "PekNlASj0+v8a4NtA6eVDXLaZrYC+IkUF3rdYJ2aC4T68hfAUQvMzdFUj2Ip5V4wr6rkGPtSBpKbC4+AvHZU+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joren\\source\\repos\\timeapp\\TimeApp\\TimeApp.csproj",
+  "projectFilePath": "C:\\Users\\Joren\\Source\\Repos\\timeapp\\TimeApp\\TimeApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joren\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Joren\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

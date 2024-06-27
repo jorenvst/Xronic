@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+28e03ca5acf90abcc3d77e31ac76b45230b5de75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+552819d8f52cb070533442f7a8bc2c2e3e8fb852")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

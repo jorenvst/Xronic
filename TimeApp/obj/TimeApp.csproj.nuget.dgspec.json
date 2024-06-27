@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joren\\source\\repos\\timeapp\\TimeApp\\TimeApp.csproj": {}
+    "C:\\Users\\Joren\\Source\\Repos\\timeapp\\TimeApp\\TimeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joren\\source\\repos\\timeapp\\TimeApp\\TimeApp.csproj": {
+    "C:\\Users\\Joren\\Source\\Repos\\timeapp\\TimeApp\\TimeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joren\\source\\repos\\timeapp\\TimeApp\\TimeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Joren\\Source\\Repos\\timeapp\\TimeApp\\TimeApp.csproj",
         "projectName": "TimeApp",
-        "projectPath": "C:\\Users\\Joren\\source\\repos\\timeapp\\TimeApp\\TimeApp.csproj",
+        "projectPath": "C:\\Users\\Joren\\Source\\Repos\\timeapp\\TimeApp\\TimeApp.csproj",
         "packagesPath": "C:\\Users\\Joren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joren\\source\\repos\\timeapp\\TimeApp\\obj\\",
+        "outputPath": "C:\\Users\\Joren\\Source\\Repos\\timeapp\\TimeApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
