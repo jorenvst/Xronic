@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\Joren\Source\Repos\timeapp\TimeApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-27T13:35:08.185</Modified>
+      <Modified>2024-07-04T14:56:51.145</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joren\Source\Repos\timeapp\TimeApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TimeApp.dll">
       <PackagePath>TimeApp.dll</PackagePath>
-      <Modified>2024-06-27T13:35:07.865</Modified>
+      <Modified>2024-07-04T14:56:49.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joren\Source\Repos\timeapp\TimeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TimeApp.exe</PackagePath>
-      <Modified>2024-06-27T13:35:07.868</Modified>
+      <Modified>2024-07-04T14:56:50.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joren\Source\Repos\timeapp\TimeApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

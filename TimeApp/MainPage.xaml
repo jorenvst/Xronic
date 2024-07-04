@@ -4,10 +4,12 @@
              x:Class="TimeApp.MainPage">
 
     <VerticalStackLayout>
-        <Label Text="Role"/>
-        <Button Text="Settings"
-                Clicked="openSettings"/>
-        <Button Text="New Training"/>
+        <HorizontalStackLayout>
+            <VerticalStackLayout>
+                <Label Text="Home"/>
+                <Label Text="ROLE"/>
+            </VerticalStackLayout>
+        </HorizontalStackLayout>
     </VerticalStackLayout>
 
 </ContentPage>
