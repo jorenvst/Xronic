@@ -10,7 +10,6 @@ class XronicHomePage extends StatefulWidget {
 }
 
 class _XronicHomePageState extends State<XronicHomePage> {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -18,8 +17,7 @@ class _XronicHomePageState extends State<XronicHomePage> {
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(widget.title),
       ),
-      body: Center(
-      ),
+      body: Center(),
     );
   }
 }
